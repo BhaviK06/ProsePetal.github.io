@@ -19,3 +19,11 @@ body, html {
 #section1 {
     background-image: url('https://www.publicdomainpictures.net/pictures/290000/velka/flower-background-1546771374vNd.jpg');
 }
+#section2 {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/370/587/desktop-wallpaper-flower-background-aesthetic-border-design-aesthetic-flowers-border.jpg");
+}
+.content-section p {
+    margin: 0 auto;
+    width: 80%;
+    font size: 1.2em;
+}
