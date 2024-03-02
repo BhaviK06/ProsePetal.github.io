@@ -67,6 +67,7 @@ header h1 {
     font-family: 'Times New Roman', Times, serif;
     color: #8dd1fe;
     text-shadow: 2px 2px 4px #000000;
+    background-color: pink;
 }
 p {
 text-align: center;
@@ -86,4 +87,6 @@ background-color: pink;
     justify-content: space-between;
     align-items: center;
 }
-
+header {
+    background-color: pink;
+}
