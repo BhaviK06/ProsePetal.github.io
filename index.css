@@ -29,6 +29,8 @@ body, html {
     font-size: 1.2em;
     text-align: center;
     background-color: #8dd1fe;
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
 }
 nav ul {
     list-style: lower-latin;
