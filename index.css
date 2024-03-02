@@ -61,5 +61,10 @@ header h1 {
 }
 #section1 p {
 text-align: center;
+color: brown;
+
+}
+#section1 h1 {
+    text-align: center;
 
 }
