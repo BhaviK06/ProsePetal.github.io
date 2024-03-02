@@ -32,19 +32,28 @@ body, html {
     font-family: 'Times New Roman', Times, serif;
     color: azure;
 }
-nav ul {
-    list-style: none;
-    display: flex;
-}
-
-nav ul li {
-    margin-right: 20px;
-}
-
-nav ul li a {
-    color: #8dd1fe;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-    font-weight: bold;
+  }
+  
+  li a:hover {
+    background-color: #111;
 }
 footer {
     background-color: #8dd1fe;
@@ -59,9 +68,9 @@ header h1 {
     color: #8dd1fe;
     text-shadow: 2px 2px 4px #000000;
 }
-#section1 p {
+p {
 text-align: center;
-color: black;
+color: skyblue;
 
 }
 #section1 h1 {
