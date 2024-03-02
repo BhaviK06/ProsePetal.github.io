@@ -33,7 +33,7 @@ body, html {
     color: azure;
 }
 nav ul {
-    list-style: lower-latin;
+    list-style: none;
     display: flex;
 }
 
